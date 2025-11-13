@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4CY5Opwpb/0=",
+  "success": true,
+  "projectFilePath": "/home/cyborgnetical/Documents/New-Cyberpatriot/Operations/Operation Cleanup/Libarius System (Backend)/Libarius System (Backend).csproj",
+  "expectedPackageFiles": [
+    "/home/cyborgnetical/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
